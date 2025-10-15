@@ -1,5 +1,3 @@
-That's an impressive project! Here is a ready-to-use README for your GitHub repository, Medical-Diagnosis-AI, based on the details you provided.
-
 🩺 AI-Powered Medical Diagnosis Assistant with Explainable AI
 This project develops a high-performance, explainable, and interactive AI assistant for preliminary medical risk assessment across a broad spectrum of diseases. It utilizes advanced ensemble deep learning and traditional machine learning models, coupled with cutting-edge Explainable AI (XAI) techniques to provide transparent and trustworthy predictions.
 
